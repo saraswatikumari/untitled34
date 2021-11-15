@@ -29,6 +29,7 @@ public class test2 {
         catch (ArithmeticException obj)//handler
         {
             System.out.println(obj);
+            System.out.println("ok");
         }
         catch (Exception obj)//barambhaastra
         {
